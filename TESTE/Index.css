@@ -1,0 +1,55 @@
+body{
+    background-image: url(netflix11.png);
+    background-size: cover;
+}
+.netflix{
+    color: red;
+    font-size: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.entrar{
+    background-color: red;
+    color: white;
+    font-size: 20px;
+    padding: 10px;
+    width: 80px;
+    border-radius: 20px;
+    margin-left: 1400px;
+    margin-top: -90px;
+}
+.filme{
+    color: white;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 150px;
+    font-size: 50px;
+}
+.assista{
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-size: 20px;
+}
+.input{
+    background-color: rgba(0, 0, 0, .7);
+    padding: 60px;
+    z-index: 90;
+    position: relative;
+    height: 550px;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 70px;
+    margin-bottom: 50px;
+    box-sizing: border-box;
+    border-radius: 10px;
+}
+.input3{
+    display: block;
+    width: 190px;
+    border-radius: 15px;
+    text-align: center;
+    color: white;
+    background-color: rgba(0, 0, 0, .7);
+    margin-left: 450px;
+    margin-bottom: 40px;
+}
