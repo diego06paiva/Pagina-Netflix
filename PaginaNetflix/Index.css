@@ -53,3 +53,11 @@ body{
     margin-left: 450px;
     margin-bottom: 40px;
 }
+.buton{
+    display: inline-block;
+    width: 100px;
+    border-radius: 15px;
+    margin-left: 500px;
+    background-color: rgba(0, 0, 0, .7);
+    color: white;
+}
